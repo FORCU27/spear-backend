@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spear-api
+  main:
+    allow-bean-definition-overriding: true
